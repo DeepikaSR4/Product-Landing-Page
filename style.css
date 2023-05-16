@@ -1,0 +1,39 @@
+body{
+    height: 100vh;
+    background-color: #111111;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(0, 255, 8);
+    list-style: none;
+}
+#nav{
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    margin-left: 30px;
+    row-gap: 60%;
+    margin-right: 30px;
+}
+#navlink{
+    display: flex;
+    flex-direction: row;
+    align-self: flex-end;
+}
+#navname{
+    color: #00DD04;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 38px;
+    font-weight: 900;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+#image{
+    margin-top: 200px;
+}
+#tagline{
+    text-align: center;
+    margin-top: 10px;
+}
