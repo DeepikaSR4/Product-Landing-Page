@@ -6,7 +6,8 @@
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>Tailwind CSS</li>
+  <li>Bootstrap</li>
 </ul>
 
 IDE USED : VISUAL STUDIO CODE
+TIME TAKEN TO FINISH THIS TASK : 1 hour 35 minutes 
